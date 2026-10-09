@@ -1,1 +1,1 @@
-# mern-stacck-journey
+# mern-stack-journey
